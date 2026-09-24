@@ -2,7 +2,7 @@
 // Created by addo6544 on 2026/9/24.
 //
 
-#include "JavaTypes.h"
+#include "JavaTypes/java.lang.h"
 #include <string>
 
 #define Wrapper FROSTJNI_JAVATYPES_WRAPPER(String)

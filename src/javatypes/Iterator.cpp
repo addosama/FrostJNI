@@ -2,7 +2,7 @@
 // Created by addo6544 on 2026/9/24.
 //
 
-#include "JavaTypes.h"
+#include "JavaTypes/java.util.h"
 
 #define Wrapper FROSTJNI_JAVATYPES_WRAPPER(Iterator)
 FROSTJNI_JAVATYPES_BEGIN_NAMESPACE
